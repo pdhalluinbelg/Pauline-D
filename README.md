@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test repository
+# Pauline D
+Pauline D repository
